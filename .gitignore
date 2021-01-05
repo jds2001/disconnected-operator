@@ -1,0 +1,9 @@
+tmp*
+bin/
+share/
+__pycache__/
+*.pyc
+lib/
+include/
+lib64
+pip-selfcheck.json

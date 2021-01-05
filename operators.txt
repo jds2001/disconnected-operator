@@ -1,0 +1,2 @@
+kubevirt-hyperconverged|stable
+ocs-operator|stable-4.6
